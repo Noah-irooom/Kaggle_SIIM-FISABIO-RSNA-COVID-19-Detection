@@ -1,6 +1,6 @@
 # 캐글 대회 : SIIM-FISABIO-RSNA-COVID-19-Detection
 - Chest X-ray 이미지 Classification 및 Object Detection
-- https://www.kaggle.com/c/siim-covid19-detection#
+- https://www.kaggle.com/c/siim-covid19-detection
 
 ## 1. 4class Classification
 
