@@ -74,5 +74,6 @@
 ## 3. 총 점수
 - 받은 점수 : Private 0.599, Public 0.611
 
-## 4. 함께한 팀원
+## 4. 팀멤버
 - 장두혁 https://github.com/justin95214
+- 이성빈 https://github.com/Noah-irooom
