@@ -21,7 +21,8 @@
   - 3. 큰 이미지와 큰 배치 사이즈가 성능이 더 나은 결과를 보임
   - 4. 모델 앙상블 적용
     - efficientnetb7
-    - efficientnetv2 
+    - efficientnetv2 L (tfhub)
+    - efficientnetv2 XL (tfhub)
     - resnetv2 152
     - resnet152
   - 5. 외부 xray 데이터셋 사용은 오히려 효과가 떨어짐.
