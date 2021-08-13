@@ -29,7 +29,7 @@
     - 분류기준이 본 대회와 다르기 때문일 것으로 생각.
 
 
-- validation mAP : 0.82
+- validation mAP : 0.82 ~ 0.83
 
 
 ## 2. Object Detection
@@ -50,6 +50,7 @@
     - resnetv2 152
     - resnet152
 
+- validation mAP : 0.91
 
 2.2. Object Detection
 - 태스크 요약 : 환자 xray이미지 병변위치 detection
@@ -67,6 +68,8 @@
   - 4. detection 또한 앙상블 고민했다면 더 좋은 결과 나왔을 것으로 예상
     - detection 앙상블 API도 있음
       -  https://github.com/ZFTurbo/Weighted-Boxes-Fusion  참고
+
+- validation mAP : 0.0.54 ~ 0.56 (Pascal평가 기준)
 
 ## 3. 총 점수
 - 받은 점수 : Private 0.599, Public 0.611
